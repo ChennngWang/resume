@@ -1,2 +1,2 @@
 # resume
-Resumes and materials mentioned in resumes
+Resume and corresponding materials

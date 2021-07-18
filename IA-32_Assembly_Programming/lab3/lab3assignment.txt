@@ -1,0 +1,1 @@
+Rewrite the MBR to enter protect mode and print the sum from 1 to 1000.

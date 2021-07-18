@@ -1,0 +1,1 @@
+Rewrite the user program loaded to RAM by MBR from hard disk. The user program prints "1+2+3+...+1000=" and the sum. The sum should be printed in the middle of the screen.

@@ -1,0 +1,1 @@
+Program in machine code. Load a value from RAM to register. Calculate how many '1' are there in the value. Then store the count to RAM.

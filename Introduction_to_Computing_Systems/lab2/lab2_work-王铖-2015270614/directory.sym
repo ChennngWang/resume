@@ -1,0 +1,15 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	EXIT                    302A
+//	EXIT2                   302C
+//	INPUT                   302E
+//	LP1                     3003
+//	LP2                     3012
+//	LP3                     301B
+//	LP4                     3021
+//	LP5                     3028
+//	LP6                     300C
+//	NE                      3063
+//	NENTER                  303E
+//	PROMPT                  303F
+//	PTR                     302D

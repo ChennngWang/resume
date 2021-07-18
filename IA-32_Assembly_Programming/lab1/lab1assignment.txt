@@ -1,0 +1,6 @@
+Rewrite the MBR to print "yourname""your student number" and a sum. The sum comes from adding the ASCII values of "every letter - space".
+
+Example:
+name = jack
+student number = 12
+sum = (j - space) + (a - space) + (c - space) + (k - space) + (1 - space) + (2 - space)

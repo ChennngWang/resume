@@ -1,0 +1,4 @@
+Rewrite the core and user programs. The MBR enters protect mode and loads the core stored from scector 1. The core loads the first user program from sector 50 then CALL it. The first user program returns. The core loads the second user program from sector 100 then JUMP to it. The seconde user program returns.
+
+The first user program prints sum from 1 to 1000.
+The second user program prints the result of 10!.
